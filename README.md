@@ -2,5 +2,5 @@
 This is a mask detector which detects if a user is wearing a face-mask trained through machine learning. built on python. I made this project in 2021 for my school project. it was exhibited at a regional level
 
 ## Author
-This project was fully created and developed by [VENKAT NARAYAN T L].  
+This project was fully created and developed by VENKAT NARAYAN T L, PRANAV A S.  
 No collaborators or external contributors participated in this project.
